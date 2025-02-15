@@ -21,40 +21,27 @@ aku ingin menjadi GameDev dan Android Developer.
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FoxHound-X&show_icons=true&theme=radical)
 
-## 🌟 Featured Projects
+## 🌟 Projek Saya
 
-### Project 1
-- Description of your first major project
-- Technologies used
-- Links to demo/live version
+### Pernah Mengerjakan Apa?
+- Membuat Website Kelas
+- Membuat Sistem Absen Kelas Berbasis Web
+- Sedang Belajar Dart Dasar
 
-### Project 2
-- Description of your second major project
-- Technologies used
-- Links to demo/live version
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Title of your first blog post](link)
-- [Title of your second blog post](link)
-- [Title of your third blog post](link)
-<!-- BLOG-POST-LIST:END -->
+## 📝 Fakta Tentang Ku
+  AKU Sedang bersekolah di Jenjang SMK dan ingin menjadi programmer yang hebat
+
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 ## 📈 GitHub Activity
-![Your GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=github)
+![Your GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=FoxHound-X&theme=github)
 
 ## ☕ Support
-If you find my work helpful, you can:
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF813F?style=flat-square&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee">
-</a>
-
+Jika ingin berkenalan lebih jauh dan kerja sama bareng, bisa ikuti akun github ku yak!
 ---
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From FoxHound-X(https://github.com/FoxHOund-X)
