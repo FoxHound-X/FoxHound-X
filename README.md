@@ -1,9 +1,9 @@
 # 👋 Hai, Kenalin aku Kadek Setia, Bias di panggil setia.
 aku ingin menjadi GameDev dan Android Developer.
 
-## 🔧 Technologies & Tools
+## 🔧 Teknologi Yang DI Pakai
 
-### Languages & Frameworks:
+### Languages:
 ![Static Badge](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=black&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=unity&logoColor=black&color=%23696a6b)
 ![Static Badge](https://img.shields.io/badge/Android_Studio-blue?style=for-the-badge&logo=androidstudio&logoColor=black&color=%233DDC84)
@@ -17,9 +17,8 @@ aku ingin menjadi GameDev dan Android Developer.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 Status Github
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FoxHound-X&show_icons=true&theme=radical)
 
@@ -35,7 +34,7 @@ aku ingin menjadi GameDev dan Android Developer.
   AKU Sedang bersekolah di Jenjang SMK dan ingin menjadi programmer yang hebat
 
 
-## 🤝 Connect with Me
+## 🤝 Terkoneksi Dengan Ku
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 ## 📈 GitHub Activity
