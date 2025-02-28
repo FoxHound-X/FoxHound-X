@@ -5,7 +5,6 @@ aku ingin menjadi GameDev dan Android Developer.
 
 ### Languages:
 ![Static Badge](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=black&color=%23E34F26)
-![Static Badge](https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=unity&logoColor=black&color=%23696a6b)
 ![Static Badge](https://img.shields.io/badge/Android_Studio-blue?style=for-the-badge&logo=androidstudio&logoColor=black&color=%233DDC84)
 ![Static Badge](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=Dart&logoColor=black&color=%230175C2)
 ![Static Badge](https://img.shields.io/badge/kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=black&color=%237F52FF)
@@ -14,6 +13,8 @@ aku ingin menjadi GameDev dan Android Developer.
 
 
 ### Tools & Platforms:
+![Static Badge](https://img.shields.io/badge/Godot_Engine-Blue?style=for-the-badge&logo=godotengine&logoColor=black&logoSize=12&labelColor=%23b0b0b0&color=%23478CBF)
+![Static Badge](https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=unity&logoColor=black&color=%23696a6b)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
