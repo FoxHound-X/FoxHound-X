@@ -44,7 +44,7 @@ aku ingin menjadi GameDev dan Android Developer.
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 ## 📈 GitHub Activity
-![Your GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=FoxHound-X&theme=github)
+![Your GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Fox&theme=github)
 
 ## ☕ Support
 Jika ingin berkenalan lebih jauh dan kerja sama bareng, bisa ikuti akun github ku yak!
