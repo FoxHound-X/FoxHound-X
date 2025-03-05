@@ -25,6 +25,8 @@ aku ingin menjadi GameDev dan Android Developer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxHound-X&layout=compact&theme=onedark)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FoxHound&repo=github-readme-stats)](https://github.com/FoxHound-X/Godot4Project)
+
 
 
 ## 🌟 Projek Saya
