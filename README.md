@@ -21,11 +21,10 @@ aku ingin menjadi GameDev dan Android Developer.
 
 ## 📊 Status Github
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FoxHound-X&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=FoxHound-X&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxHound-X&layout=compact&theme=onedark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Godot4Project)](https://github.com/FoxHound-X/Godot4Project)
 
 
 
