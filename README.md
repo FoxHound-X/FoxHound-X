@@ -21,8 +21,6 @@ aku ingin menjadi GameDev dan Android Developer.
 
 ## 📊 Status Github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoxHound-X&show_icons=true&theme=tokyonight)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoxHound-X&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxHound-X&layout=compact&theme=onedark)
