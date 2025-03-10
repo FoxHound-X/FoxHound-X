@@ -44,9 +44,27 @@ Aku Sedang Belajar Membuat Aplikasi Android menggunakan Android Studio dan Membu
 
 ## 📊 Status Github
 
-<img src="https://github-readme-stats.vercel.app/api?username=FoxHound-X&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=FoxHound-X&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=FoxHound-X&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxHound-X&layout=compact&theme=onedark)
+
+</div>
+
 
 
 ## 🌟 Projek Saya
