@@ -6,7 +6,7 @@ aku ingin menjadi GameDev dan Android Developer.
 ### language studied:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,html,css,dart,kotlin,c,flutter,php,mysql,java,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=godot,html,css,tailwind,dart,kotlin,c,flutter,php,mysql,java,cpp,cs" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@ aku ingin menjadi GameDev dan Android Developer.
 ### Tools & Platforms:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,godot,unity,vscode,androidstudio,idea" />
+    <img src="https://skillicons.dev/icons?i=git,github,godot,unity,vscode,visualstudio,androidstudio,idea" />
   </a>
 </p>
 
