@@ -1,12 +1,27 @@
-# 👋 Hai, Kenalin aku Kadek Setia, Bias di panggil setia.
-aku ingin menjadi GameDev dan Android Developer.
+<div align="center">
+  <img src="![Image](https://github.com/user-attachments/assets/2dbef827-ad11-45ec-925f-4db5eec72edf)" width="100%" alt="Hello World Welcome to My Profile">
+</div>
 
-## 🔧 Teknologi Yang DI Pakai
+## 👋 Hi, Aku Setia
+
+Game Dev & Android Dev
+
+Aku Sedang Belajar Membuat Aplikasi Android menggunakan Android Studio dan Membuat game juga menggunakan Unity / Godot
+
+* ✨ Hobi Fotografi
+* 📚 Suka Mempelajari Hal Baru
+* 📝 Mempelajari Dunia Teknologi
+* 📋 Lihat Porti Folio ku di Repository
+
+
+<div align="right">
+  <img src="https://your-image-url.com/owl.gif" width="200" alt="Coding Owl">
+</div>
 
 ### language studied:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,html,css,tailwind,dart,kotlin,c,flutter,php,mysql,java,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=godot,html,css,tailwind,dart,kotlin,flutter,java,cpp,cs" />
   </a>
 </p>
 
@@ -40,9 +55,6 @@ aku ingin menjadi GameDev dan Android Developer.
 - Membuat Sistem Absen Kelas Berbasis Web
 - Sedang Belajar Dart Dasar
 
-
-## 📝 Fakta Tentang Ku
-  AKU Sedang bersekolah di Jenjang SMK dan ingin menjadi programmer yang hebat
 
 ### Bahasa Pemrogramman & Tools Yang Sedang Di Gunakan
 <p align="center">
