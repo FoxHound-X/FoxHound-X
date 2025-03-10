@@ -85,13 +85,4 @@ Aku Sedang Belajar Membuat Aplikasi Android menggunakan Android Studio dan Membu
 ## 🤝 Terkoneksi Dengan Ku
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 
-## 📈 GitHub Activity
-![Your GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Fox&theme=github)
-
-
-
-## ☕ Support
-Jika ingin berkenalan lebih jauh dan kerja sama bareng, bisa ikuti akun github ku yak!
----
-⭐️ From FoxHound-X(https://github.com/FoxHOund-X)
 
