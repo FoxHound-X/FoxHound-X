@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="![image alt](https://github.com/FoxHound-X/FoxHound-X/blob/main/FoxHound-X.png?raw=true)" width="100%" alt="Hello World Welcome to My Profile">
+  <img src="https://github.com/FoxHound-X/FoxHound-X/blob/main/FoxHound-X.png?raw=true" width="100%" alt="Hello World Welcome to My Profile">
 </div>
+
 
 ## 👋 Hi, Aku Setia
 
