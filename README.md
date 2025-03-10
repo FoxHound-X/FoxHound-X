@@ -2,8 +2,12 @@
   <img src="https://github.com/FoxHound-X/FoxHound-X/blob/main/FoxHound-X.png?raw=true" width="100%" alt="Hello World Welcome to My Profile">
 </div>
 
+<div align="center">
+  <h1 style="background: linear-gradient(90deg, #6C63FF, #00D4FF); -webkit-background-clip: text; color: transparent;">
+    Hi, Aku <b>Kadek Setia</b>!
+  </h1>
+</div>
 
-## 👋 Hi, Aku Setia
 
 Game Dev & Android Dev
 
