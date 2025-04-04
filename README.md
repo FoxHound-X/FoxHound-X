@@ -26,7 +26,7 @@ Aku Sedang Belajar Membuat Aplikasi Android menggunakan Android Studio dan Membu
 ### language studied:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,html,css,tailwind,dart,kotlin,flutter,java,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=godot,html,css,tailwind,dart,kotlin,flutter,firebase,java,cpp,cs" />
   </a>
 </p>
 
