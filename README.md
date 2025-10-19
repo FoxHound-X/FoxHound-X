@@ -11,14 +11,6 @@
 
 Game Dev & Android Dev
 
-Aku Sedang Belajar Membuat Aplikasi Android menggunakan Android Studio dan Membuat game juga menggunakan Unity / Godot
-
-* ✨ Hobi Fotografi
-* 📚 Suka Mempelajari Hal Baru
-* 📝 Mempelajari Dunia Teknologi
-* 📋 Lihat Porti Folio ku di Repository
-
-
 <div align="right">
   <img src="https://your-image-url.com/owl.gif" width="200" alt="Coding Owl">
 </div>
