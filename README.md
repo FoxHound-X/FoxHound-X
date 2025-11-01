@@ -12,7 +12,7 @@
   <img src="https://your-image-url.com/owl.gif" width="200" alt="Coding Owl">
 </div>
 
-### language studied:
+### Languages Proficient In
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=godot,html,css,tailwind,nodejs,dart,kotlin,flutter,firebase,java,cpp,cs,dotnet" />
@@ -21,14 +21,14 @@
 
 
 
-### Tools & Platforms:
+### Software & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,godot,unity,vscode,visualstudio,androidstudio,idea,ps,pr" />
   </a>
 </p>
 
-### Operating System Used:
+### OS Environments
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,kali" />
