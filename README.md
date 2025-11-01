@@ -2,9 +2,19 @@
   <img src="https://github.com/FoxHound-X/FoxHound-X/blob/main/FoxHound-X.png?raw=true" width="100%" alt="Hello World Welcome to My Profile">
 </div> -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi,+My+Name+is+Kadek+Setia!;I+am+a+Mobile+Developer;and+Game+Developer" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi, I'm Setia Dharma</h1>
+
+<p align="center">
+  <b>Flutter Developer</b> • <b>Backend WebDeveloper</b> • <b>GameDeveloper</b>
+</p>
+
+<hr>
+
+<p align="center">
+  Building modern mobile apps with <b>Flutter</b> and clean UI design.
+</p>
+
+
 
 <br>
 
@@ -12,51 +22,50 @@
   <img src="https://your-image-url.com/owl.gif" width="200" alt="Coding Owl">
 </div>
 
-### Languages Proficient In
-<p align="left">
+<h3 align="center">Languages Proficient In</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=godot,html,css,tailwind,nodejs,dart,kotlin,flutter,firebase,java,cpp,cs,dotnet" />
   </a>
 </p>
 
-
-
-### Software & Platforms
-<p align="left">
+<h3 align="center">Software & Platforms</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,godot,unity,vscode,visualstudio,androidstudio,idea,ps,pr" />
   </a>
 </p>
 
-### OS Environments
-<p align="left">
+<h3 align="center">OS Environments</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,kali" />
   </a>
 </p>
+
 <br>
 <br>
 
-## 📊 Status Github
+<h2 align="center">📊 GitHub Status</h2>
 
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=FoxHound-X&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
+      </td>
+      <td>
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com/?user=FoxHound-X&theme=dark" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FoxHound-X&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
-    </td>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=FoxHound-X&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<div align="left">
-
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxHound-X&layout=compact&theme=onedark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxHound-X&layout=compact&theme=onedark" />
+</p>
 
 </div>
 
