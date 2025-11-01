@@ -94,7 +94,7 @@
 
 <div align="center">
 
-### 🌐 Connect with me  
+### 🌐 Get in Touch 
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/kadek-setia-352929357/" target="_blank">
