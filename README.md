@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Setia Dharma</h1>
 
 <p align="center">
-  <b>Flutter Developer</b> • <b>Backend WebDeveloper</b> • <b>GameDeveloper</b>
+  <b>Mobile Developer</b> • <b>Backend WebDeveloper</b> • <b>GameDeveloper</b>
 </p>
 
 <hr>
@@ -18,16 +18,38 @@
 
 <br>
 
-<div align="left">
-  <img src="https://your-image-url.com/owl.gif" width="200" alt="Coding Owl">
-</div>
-
 <h3 align="center">Languages Proficient In</h3>
+
 <p align="center">
+  <b>Mobile Development:</b><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,html,css,tailwind,nodejs,dart,kotlin,flutter,firebase,java,cpp,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react" />
   </a>
 </p>
+
+<p align="center">
+  <b>Web Development:</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,html,css,tailwind,laravel,mysql" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Game Development:</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,dotnet" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Basic Learning:</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs" />
+  </a>
+</p>
+
+<br>
+<br>
 
 <h3 align="center">Software & Platforms</h3>
 <p align="center">
@@ -39,7 +61,7 @@
 <h3 align="center">OS Environments</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,kali" />
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,kali,arch" />
   </a>
 </p>
 
@@ -73,30 +95,28 @@
 <br>
 <br>
 
-## 🌟 My Projects
+## My Projects
 
-### What Have I Worked On?
+### Overview
+A collection of projects I’ve worked on, focusing on educational and web-based applications.  
+Each project reflects my learning journey and passion for building useful digital tools.
 
-* Educational Application
-* Class Website
-* Web-Based Attendance System
-* Currently Learning Basic Dart
+---
 
-<br>
-
-| Project                      | Description                                                                                       | Link                                                        |
-| ---------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| 🎓 **SINTAXIA Apps**          | Sintaxia is a learning app I’m developing to help beginners understand programming fundamentals. It’s planned to be completely free, combining my passion for coding and my final semester project. | [View Project](https://github.com/FoxHound-X/Sintaxia)    |
-
+**Key Areas**
+- Educational Applications  
+- Class and Institutional Websites  
+- Web-Based Attendance Systems  
+- Currently Exploring: Basic Dart and Flutter Development  
 
 <br>
 
-### Programming Languages & Tools Currently Used
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,unity,vscode,git,github,c" />
-  </a>
-</p>
+| Project | Description | Repository |
+| :------ | :----------- | :---------- |
+| **SINTAXIA App** | A learning application designed to help beginners understand programming fundamentals. Built as part of my final semester project, focusing on simplicity and accessibility. | [GitHub →](https://github.com/FoxHound-X/Sintaxia) |
+
+
+<br>
 
 <br>
 <br>
