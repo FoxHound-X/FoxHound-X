@@ -114,6 +114,7 @@ Each project reflects my learning journey and passion for building useful digita
 | Project | Description | Repository |
 | :------ | :----------- | :---------- |
 | **SINTAXIA App** | A learning application designed to help beginners understand programming fundamentals. Built as part of my final semester project, focusing on simplicity and accessibility. | [GitHub →](https://github.com/FoxHound-X/Sintaxia) |
+| **DOCS Center** | Fuzian Docs Center is a documentation website for the APIs, widgets, and projects we build. It is designed to simplify the learning process and support efficient application development. | [Fuzian Docs →](https://docs.fuzianapps.biz.id/) |
 | **Web School Apps** | This web-based application was developed to help schools efficiently manage data such as attendance, teacher journals, and other administrative records. The project was created as part of a school assignment for the end-of-semester examination. | [GitHub →](https://github.com/FoxHound-X/RPL_WEB) |
 
 
