@@ -1,175 +1,103 @@
-<!-- <div align="center">
-  <img src="https://github.com/FoxHound-X/FoxHound-X/blob/main/FoxHound-X.png?raw=true" width="100%" alt="Hello World Welcome to My Profile">
-</div> -->
+<div align="center">
 
-<h1 align="center">Hi, I'm Setia Dharma</h1>
+# Setia Dharma
 
-<p align="center">
-  <b>Mobile Developer</b> • <b>Backend WebDeveloper</b> • <b>GameDeveloper</b>
-</p>
+**Mobile Developer &nbsp;·&nbsp; Backend Web Developer &nbsp;·&nbsp; Game Developer**
 
-<hr>
-
-<p align="center">
-  Building modern mobile apps with <b>Flutter</b> and clean UI design.
-</p>
-
-
-
-<br>
-
-<h3 align="center">Languages Proficient In</h3>
-
-<p align="center">
-  <b>Mobile Development:</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Web Development:</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,html,css,tailwind,laravel,mysql" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Game Development:</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,dotnet" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Basic Learning:</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs" />
-  </a>
-</p>
-
-<br>
-<br>
-
-<h3 align="center">Software & Platforms</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,godot,unity,vscode,visualstudio,androidstudio,idea,ps,pr" />
-  </a>
-</p>
-
-<h3 align="center">OS Environments</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,kali,arch" />
-  </a>
-</p>
-
-<br>
-<br>
-
-<h2 align="center">📊 GitHub Status</h2>
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=FoxHound-X&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
-      </td>
-      <td>
-        <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com/?user=FoxHound-X&theme=dark" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxHound-X&layout=compact&theme=onedark" />
-</p>
+*Building modern mobile experiences with Flutter and clean, scalable web systems.*
 
 </div>
-
-<br>
-<br>
-<br>
-
-## My Projects
-
-### Overview
-A collection of projects I’ve worked on, focusing on educational and web-based applications.  
-Each project reflects my learning journey and passion for building useful digital tools.
 
 ---
 
-**Key Areas**
-- Educational Applications  
-- Class and Institutional Websites  
-- Web-Based Attendance Systems  
-- Currently Exploring: Basic Dart and Flutter Development  
+## About Me
 
-<br>
+I'm a developer focused on creating accessible, well-structured digital tools. My work spans mobile applications, backend web systems, and game development — with a consistent emphasis on clean architecture and user-centric design.
 
-| Project | Description | Repository |
-| :------ | :----------- | :---------- |
-| **SINTAXIA App** | A learning application designed to help beginners understand programming fundamentals. Built as part of my final semester project, focusing on simplicity and accessibility. | [GitHub →](https://github.com/FoxHound-X/Sintaxia) |
-| **DOCS Center** | Fuzian Docs Center is a documentation website for the APIs, widgets, and projects we build. It is designed to simplify the learning process and support efficient application development. | [Fuzian Docs →](https://docs.fuzianapps.biz.id/) |
-| **Web School Apps** | This web-based application was developed to help schools efficiently manage data such as attendance, teacher journals, and other administrative records. The project was created as part of a school assignment for the end-of-semester examination. | [GitHub →](https://github.com/FoxHound-X/RPL_WEB) |
+---
 
+## Tech Stack
 
-<br>
+**Mobile Development**
 
-<br>
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react" />
+</p>
+
+**Web Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,tailwind,mysql" />
+</p>
+
+**Game Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=godot,dotnet" />
+</p>
+
+**Currently Learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs" />
+</p>
+
+---
+
+## Tools & Environment
+
+**Software & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,idea,unity,godot,ps,pr" />
+</p>
+
+**Operating Systems**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,kali,arch" />
+</p>
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-### 🌐 Get in Touch 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=FoxHound-X&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=FoxHound-X&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" />
+    </td>
+  </tr>
+</table>
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/kadek-setia-352929357/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-       alt="LinkedIn" width="45" height="45" style="margin-right: 70px;"/>
-</a>
-
-<!-- Instagram Bisnis -->
-<!-- <a href="https://www.instagram.com/username_bisnis" target="_blank">
-  <img src="https://img.icons8.com/color/48/instagram-new.png" 
-       alt="Instagram Business" width="45" height="45" style="margin-right: 70px;"/>
-</a> -->
-
-<!-- Steam -->
-<a href="https://steamcommunity.com/profiles/76561199730332865/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/steam.png" 
-       alt="Steam" width="45" height="45" style="margin-right: 20px;"/>
-</a>
-
-<!-- Instagram Personal -->
-<a href="https://www.instagram.com/setia_dharma24/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/instagram-new.png" 
-       alt="Instagram Personal" width="45" height="45" style="margin-right: 70px;"/>
-</a>
-
-<!-- Discord -->
-<a href="https://discord.gg/invitekode" target="_blank">
-  <img src="https://img.icons8.com/color/48/discord--v2.png" 
-  alt="Discord" width="45" height="45" style="margin-right: 70px;"/>
-</a>
-
-
-<!-- GitHub Projects -->
-<a href="https://github.com/FoxHound-X/Sintaxia" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" 
-       alt="GitHub Projects" width="45" height="45" style="margin-right: 70px;"/>
-</a>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxHound-X&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 </div>
 
+---
 
+## Projects
 
+| Project | Description | Link |
+|:--------|:------------|:----:|
+| **SINTAXIA App** | A beginner-friendly learning app for understanding programming fundamentals. Developed as a final semester project with a focus on simplicity and accessibility. | [View →](https://github.com/FoxHound-X/Sintaxia) |
+| **DOCS Center** | Documentation website for Fuzian Apps — covering APIs, widgets, and internal projects to streamline the development and onboarding process. | [View →](https://docs.fuzianapps.biz.id/) |
+| **Web School Apps** | A web-based school management system for handling attendance, teacher journals, and administrative records. Built as an end-of-semester academic project. | [View →](https://github.com/FoxHound-X/RPL_WEB) |
 
+---
 
+## Let's Connect
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadek-setia-352929357/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/setia_dharma24/)
+[![Steam](https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199730332865/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FoxHound-X)
+
+</div>
