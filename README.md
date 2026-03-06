@@ -93,6 +93,10 @@ I'm a developer focused on creating accessible, well-structured digital tools. M
 
 ## Let's Connect
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNndGV5NHVnbnNma2dpMHU4Z3FhMmM3Z2kzaDF5MW90MGE5ZnQxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8nLPCCCw8Dgw8WgNVo/giphy.gif">
+</p>
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadek-setia-352929357/)
