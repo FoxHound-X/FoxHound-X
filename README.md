@@ -96,7 +96,9 @@ I'm a developer focused on creating accessible, well-structured digital tools. M
 ## Let's Connect
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNndGV5NHVnbnNma2dpMHU4Z3FhMmM3Z2kzaDF5MW90MGE5ZnQxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8nLPCCCw8Dgw8WgNVo/giphy.gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNndGV5NHVnbnNma2dpMHU4Z3FhMmM3Z2kzaDF5MW90MGE5ZnQxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8nLPCCCw8Dgw8WgNVo/giphy.gif" width="300" height="300">
+  
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5nYm5rYTlyYXdkb2h4Y2E3Z2N3dWM4cDFhMWtzNXA3YTU5MnMwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/chYV2WhAi4sqvr5QnS/giphy.gif" width="300" height="300">
 </p>
 
 <div align="center">
