@@ -1,6 +1,8 @@
 <div align="center">
 
-# Setia Dharma
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FoxHound-X/FoxHound-X/main/Black%20Technology%20LinkedIn%20Banner%20(1).png" width="100%">
+</p>
 
 **Mobile Developer &nbsp;·&nbsp; Backend Web Developer &nbsp;·&nbsp; Game Developer**
 
