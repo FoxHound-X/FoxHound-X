@@ -88,9 +88,10 @@ I'm a developer focused on creating accessible, well-structured digital tools. M
 | Project | Description | Link |
 |:--------|:------------|:----:|
 | **SINTAXIA App** | A beginner-friendly learning app for understanding programming fundamentals. Developed as a final semester project with a focus on simplicity and accessibility. | [View →](https://github.com/FoxHound-X/Sintaxia) |
+| **Back Office System** | A back-office management system designed to help employees record and manage data quickly and securely. Built using Laravel for the backend and MySQL for database management. This project was developed as part of my portfolio. | [View →](https://github.com/FoxHound-X/LaravelPortofolio) |
+| **Laravel CRUD System** | This project was created as a stepping stone and a personal learning project for Laravel. | [View →](https://github.com/FoxHound-X/Learn-Laravel) |
 | **DOCS Center** | Documentation website for Fuzian Apps — covering APIs, widgets, and internal projects to streamline the development and onboarding process. | [View →](https://docs.fuzianapps.biz.id/) |
 | **Web School Apps** | A web-based school management system for handling attendance, teacher journals, and administrative records. Built as an end-of-semester academic project. | [View →](https://github.com/FoxHound-X/RPL_WEB) |
-| **Laravel CRUD System** | This project was created as a stepping stone and a personal learning project for Laravel. | [View →](https://github.com/FoxHound-X/Learn-Laravel) |
 
 ---
 
